@@ -1,0 +1,6 @@
+環境変数 GEMINI_API_KEY が見つかりません。
+1. GitHub の Settings → Codespaces → Secrets に GEMINI_API_KEY を登録し、
+   使う repository に自分の fork を選んでください。
+2. Codespaces を起動したあとに登録した場合は、Codespaces を再起動してください。
+   （左下の「Codespaces」→「Stop Current Codespace」→ 再度開く）
+[model] gemini-3.5-flash-lite
